@@ -1,4 +1,4 @@
 <?php 
 include_once("home.html"); 
-echo gethostname();
+echo $_SERVER;
 ?>
